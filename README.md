@@ -1,5 +1,5 @@
 INTRODUCTION:
-        It looks like you've uploaded a Jupyter notebook titled "Credit Fraud - Dealing with Imbalanced Datasets." Let me summarize the project in simple terms and provide potential HR interview questions for a fresher role.
+
 
 Project Summary: Credit Fraud - Dealing with Imbalanced Datasets
 Simple Explanation:
