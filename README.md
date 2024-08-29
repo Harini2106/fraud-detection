@@ -1,6 +1,6 @@
 INTRODUCTION:
 
-
+COLAB LINK:https://colab.research.google.com/drive/1TjrnLtQye1twOyChL-cPvsMypXRwyv2u?usp=sharing
 Project Summary: Credit Fraud - Dealing with Imbalanced Datasets
 Simple Explanation:
 In this project, you worked on a dataset related to credit card transactions. The main challenge was that the dataset was imbalanced, meaning there were a lot more legitimate transactions than fraudulent ones. This is a common issue in fraud detection because fraudulent transactions are rare but critical to identify.
